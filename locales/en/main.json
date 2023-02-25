@@ -1,0 +1,19 @@
+{
+  "level-title": "Level",
+  "home-title": "Home",
+  "presentation-title": "Presentation",
+  "projects-title": "Projects",
+  "skills-title": "Skills",
+  "cv-title": "CV",
+  "contact-title": "Contact",
+  "welcome-title": "Welcome",
+  "switch-basic":"Basic version",
+"label-contact-me": "contact me",
+"label-yo": "20 yo",
+    "label-driving-licence": "Driving licence",
+    "label-location": "Vannes (Brittany)",
+    "presentation-content": "Details",
+    "up-rules": "Jump",
+    "left-rules": "move on left",
+    "right-rules": "move on right"
+}

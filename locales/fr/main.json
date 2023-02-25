@@ -1,0 +1,21 @@
+{
+    "level-title": "Niveau",
+    "home-title": "Accueil",
+  "presentation-title": "Présentation",
+  "projects-title": "Projets",
+  "skills-title": "Competences",
+  "cv-title": "CV",
+  "contact-title": "Contact",
+    "welcome-title": "Bienvenue",
+    "switch-basic":"Version classique",
+    "label-contact-me": "Contactez-moi",
+    "label-details": "Details",
+    "label-yo": "20 ans",
+    "label-driving-licence": "Permis B",
+    "label-location": "Vannes (Bretagne)",
+    "presentation-content": "Je m'appelle Tom Lebrun, je suis étudiant en dernière année d'un bachelor Développeur web en alternance dans l'entreprise Nexelec. M'épanouissant dans cette formation et ayant découvert les plaisirs du développement web, j'ai pour ambition d'en faire mon métier. C'est dans cette optique que je souhaite poursuivre mes études vers un MBA ou mastère Full stack. Je suis donc à la recherche d'une alternance pour l'année scolaire 2023-2024 afin de pouvoir effectuer la formation que je vise.",
+
+    "up-rules": "Sauter",
+    "left-rules": "Aller à gauche",
+    "right-rules": "Aller à droite"
+}
