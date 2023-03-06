@@ -26,5 +26,6 @@
   "up-rules": "Sauter",
   "left-rules": "Aller à gauche",
   "right-rules": "Aller à droite",
-  "alert-message-send": "Votre message à été envoyé avec succès !"
+  "alert-message-send": "Votre message à été envoyé avec succès !",
+  "contact-me-message": "Prenez contact avec moi en remplissant le formulaire."
 }
