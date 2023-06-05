@@ -1,7 +1,9 @@
 {
   "files": {
     "main.css": "./static/css/main.bec3000a.css",
-    "main.js": "./static/js/main.8a1ae2bc.js",
+    "main.js": "./static/js/main.d3f4a4d1.js",
+    "static/media/CV_Tom_Lebrun_en.pdf": "./static/media/CV_Tom_Lebrun_en.c0f31d304e957329b35a.pdf",
+    "static/media/CV_Tom_Lebrun_fr.pdf": "./static/media/CV_Tom_Lebrun_fr.e0d974608306a5ada350.pdf",
     "static/media/spriteRunLeft.png": "./static/media/spriteRunLeft.9116a1dfe43f14d29b7a.png",
     "static/media/spriteRunRight.png": "./static/media/spriteRunRight.0a3e9fa25b0398e3fe6f.png",
     "static/media/spriteStandLeft.png": "./static/media/spriteStandLeft.b19903e5a60b2096f505.png",
@@ -9,7 +11,9 @@
     "static/media/sprite.png": "./static/media/sprite.fb4ad959f2e69c11b69e.png",
     "static/media/tomus.png": "./static/media/tomus.73f7d89abb1d0d2b67a8.png",
     "static/media/react.png": "./static/media/react.f153eb9f28437192c6a0.png",
+    "static/media/CV_Tom_Lebrun_en.png": "./static/media/CV_Tom_Lebrun_en.7b83a90197d730979e9f.png",
     "static/media/altameos.png": "./static/media/altameos.5cce9708b45304dfaf21.png",
+    "static/media/CV_Tom_Lebrun_fr.png": "./static/media/CV_Tom_Lebrun_fr.91843573ded52807dde8.png",
     "static/media/CV_Tom_Lebrun.pdf": "./static/media/CV_Tom_Lebrun.019cb46d0e01f0ce67aa.pdf",
     "static/media/CV_Tom_Lebrun.png": "./static/media/CV_Tom_Lebrun.53ee1afbff8fc39e0e40.png",
     "static/media/node.png": "./static/media/node.abfaef34ea49d0c7cd3c.png",
@@ -26,10 +30,10 @@
     "index.html": "./index.html",
     "static/media/getFetch.cjs": "./static/media/getFetch.40f37ddea2378391108f.cjs",
     "main.bec3000a.css.map": "./static/css/main.bec3000a.css.map",
-    "main.8a1ae2bc.js.map": "./static/js/main.8a1ae2bc.js.map"
+    "main.d3f4a4d1.js.map": "./static/js/main.d3f4a4d1.js.map"
   },
   "entrypoints": [
     "static/css/main.bec3000a.css",
-    "static/js/main.8a1ae2bc.js"
+    "static/js/main.d3f4a4d1.js"
   ]
 }
